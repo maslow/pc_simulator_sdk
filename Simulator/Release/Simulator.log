@@ -1,0 +1,27 @@
+﻿生成启动时间为 婷婷2012/4/7老根 13:00:08。
+     1>项目“E:\MyProjects\Simulator\Simulator\Simulator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\Simulator.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SIMULATOR_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Simulator.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Simulator.cpp
+         Simulator.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\MyProjects\Simulator\Release\Simulator.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Simulator.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\MyProjects\Simulator\Release\Simulator.pdb" /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\MyProjects\Simulator\Release\Simulator.lib" /MACHINE:X86 /DLL Release\dllmain.obj
+         Release\Simulator.obj
+         Release\stdafx.obj
+            正在创建库 E:\MyProjects\Simulator\Release\Simulator.lib 和对象 E:\MyProjects\Simulator\Release\Simulator.exp
+         正在生成代码
+         已完成代码的生成
+         Simulator.vcxproj -> E:\MyProjects\Simulator\Release\Simulator.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\MyProjects\Simulator\Release\Simulator.dll;#2" /manifest Release\Simulator.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\Simulator.unsuccessfulbuild”。
+         正在对“Release\Simulator.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\MyProjects\Simulator\Simulator\Simulator.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.01
